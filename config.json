@@ -1,0 +1,13 @@
+{
+	"server" : {
+		"hostname" : "hostname",
+		"port" : "port_num"
+	}, 
+
+	"mysql" : {
+		"host" : "localhost",
+		"user" : "user_name",
+		"password" : "db_pwd",
+		"database" : "db_name"
+	}
+}
